@@ -21,8 +21,19 @@ A frontend **Amazon homepage clone** built using **HTML and CSS**. This project 
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Website structure and content
-- **CSS3** – Styling, layout, spacing, and responsiveness
+- **HTML** – Website structure and content
+- **CSS** – Styling, layout, spacing, and responsiveness
+
+
+#### This is my HTML & CSS base Amazon page clone
+##
+<img width="1920" height="997" alt="amazonClone" src="https://github.com/user-attachments/assets/96a50851-57f1-4b0d-b576-19fe4ff1a8a8" />
+##
+##
+<img width="1920" height="1040" alt="amazonfooter" src="https://github.com/user-attachments/assets/5f12555e-fa06-48cf-998d-14fe8b7024d9" />
+##
+##
+https://github.com/user-attachments/assets/d6725b56-d4c7-4b6d-92bb-75b27d4c68ed
 
 ## 📂 Project Structure
 
@@ -35,3 +46,8 @@ amazon-clone/
 │   ├── ...
 │   └── ...
 └── README.md
+
+
+
+
+
