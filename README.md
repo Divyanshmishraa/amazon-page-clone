@@ -33,7 +33,10 @@ A frontend **Amazon homepage clone** built using **HTML and CSS**. This project 
 <img width="1920" height="1040" alt="amazonfooter" src="https://github.com/user-attachments/assets/5f12555e-fa06-48cf-998d-14fe8b7024d9" />
 ##
 ##
-https://github.com/user-attachments/assets/d6725b56-d4c7-4b6d-92bb-75b27d4c68ed
+
+https://github.com/user-attachments/assets/9987beed-8dfc-43ee-8ba2-f21b23fc66b7
+
+
 
 ## 📂 Project Structure
 
